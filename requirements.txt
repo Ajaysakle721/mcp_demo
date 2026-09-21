@@ -1,2 +1,3 @@
-fastmcp
-httpx
+mcp
+langchain-openai
+python-dotenv
